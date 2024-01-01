@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm fchanane04</h1>
-<h3 align="center">A CS student and a UI/UX designer, passionate about coding and graphics</h3>
+<h1 align="center">Hi 👋, I'm fchanane</h1>
+<h3 align="center">A Software Developer Student and a Devops and cloud Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fchanane04&label=Profile%20views&color=0e75b6&style=flat" alt="fchanane04" /> </p>
 
