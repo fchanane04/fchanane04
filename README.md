@@ -7,7 +7,7 @@
 I'm a passionate Software Engineer dedicated to building robust applications and solving complex problems. I thrive in environments that challenge my technical skills and allow me to learn new technologies.
 
 - 🔭 I’m currently working on improving my backend architecture skills.
-- 🌱 I’m currently learning more about Cloud Native technologies.
+- 🌱 I’m currently learning more about System Designs and Cloud Native technologies.
 - 💬 Ask me about **Python, Docker, or C++**.
 - 📫 How to reach me: Connect with me on **LinkedIn**!
 
